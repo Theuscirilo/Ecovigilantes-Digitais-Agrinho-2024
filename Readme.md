@@ -23,13 +23,13 @@ O **Ecovigilantes Digitais** tem como objetivo capacitar os alunos no uso de fer
 - *(Opcional)* JavaScript para animações e interações futuras
 
 ## 📁 Estrutura de Arquivos
-
+```graphql
 ecovigilantes-digitais/
 ├── index.html
 ├── styles.css
 ├── script.js
 ├── README.md
-
+```
 ## 🎯 Público-Alvo
 
 - Estudantes do Ensino Fundamental
