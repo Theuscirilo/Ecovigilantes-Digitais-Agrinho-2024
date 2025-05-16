@@ -2,6 +2,9 @@
 
 Projeto educativo e socioambiental desenvolvido para o programa **Agrinho 2024**, com foco na formação de estudantes do ensino fundamental como agentes transformadores por meio da tecnologia e da consciência ambiental.
 
+🔗 **Acesse o site aqui:**  
+👉 [https://theuscirilo.github.io/Ecovigilantes-Digitais-Agrinho-2024/](https://theuscirilo.github.io/Ecovigilantes-Digitais-Agrinho-2024/)
+
 ## ✨ Visão Geral
 
 O **Ecovigilantes Digitais** tem como objetivo capacitar os alunos no uso de ferramentas digitais para o monitoramento de problemas ambientais locais, promovendo a cidadania ativa, o pensamento crítico e ações práticas em suas comunidades.
